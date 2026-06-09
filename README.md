@@ -1,8 +1,8 @@
 # Strava Viewer
 
-![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/v3.0%2B-000000?style=flat&logo=Pandas&label=Pandas)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 
